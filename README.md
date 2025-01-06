@@ -1,7 +1,3 @@
-Claro! Vou fornecer um formato de README.md em um formato simples que você pode copiar diretamente para o seu repositório.
-
-markdown
-Copiar código
 # Relógio Digital Flet - Python
 
 Este é um projeto de **Relógio Digital** desenvolvido com Python e a biblioteca **Flet**, criando uma interface gráfica moderna e funcional. O objetivo é mostrar a utilização de Flet para construir interfaces visuais interativas com Python.
