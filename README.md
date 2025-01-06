@@ -61,6 +61,7 @@ python main.py
 📸 Imagem de Exemplo
 Aqui está uma captura de tela do relógio digital em funcionamento:
 
+![image](https://github.com/user-attachments/assets/8a629274-eb6d-4e85-a2d4-8900859a528d)
 
 💬 Como Contribuir
 Faça um fork do repositório.
