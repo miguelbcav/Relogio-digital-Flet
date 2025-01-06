@@ -1,7 +1,6 @@
 import flet as ft 
 from datetime import datetime
 import asyncio
-import time
 
 def main(page:ft.Page):
     # Configurações do app
